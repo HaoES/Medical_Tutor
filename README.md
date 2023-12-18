@@ -1,9 +1,5 @@
 # Medical Tutor
 
-## Created by
-
-- [Hamza ES-SAMAALI](https://www.linkedin.com/in/hamza-es/)
-
 ## Problematic
 
 In the realm of medical education, students face an uphill battle marked by the complexities of vast and dynamic study materials. Traditional study methods often fall short in catering to the specific needs of individual learners, leading to a lack of personalized guidance and a struggle to master the extensive curriculum. Furthermore, the growing demand for medical education, evident in the increasing enrollments globally, calls for innovative solutions to enhance the efficiency and effectiveness of exam preparation. 
